@@ -14,12 +14,14 @@ performance of them and find the most optimal one.
 # Search Algorithms
 There are two types of search algorithms which are used 
 based on the search problem: 
+
 • Uninformed search algorithms: They do not have 
 additional information about the goal and are 
 known as blind search. These algorithms start 
 from the initial state and traverses the tree to 
 reach goal state. Breadth-first search, Depth First 
 Search and Uniform Cost Search are discussed here.
+
 • Informed search algorithms: They have additional 
 information about the goal by something called 
 heuristic. Greedy Search and A* Tree Search that
