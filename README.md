@@ -24,5 +24,4 @@ Search and Uniform Cost Search are discussed here.
 
 • Informed search algorithms: They have additional 
 information about the goal by something called 
-heuristic. Greedy Search and A* Tree Search that
-are discussed, are here.
+heuristic. Greedy Search and A* Tree Search are discussed here.
